@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/NikolayStepanov/Fuel-Consumption.svg?branch=master)](https://travis-ci.org/NikolayStepanov/Fuel-Consumption)
+[![Build Status](https://travis-ci.org/NikolayStepanov/Fuel-Consumption.svg?branch=master)](https://travis-ci.org/NikolayStepanov/Fuel-Consumption) [![codecov](https://codecov.io/gh/NikolayStepanov/Fuel-Consumption/branch/master/graph/badge.svg)](https://codecov.io/gh/NikolayStepanov/Fuel-Consumption)
